@@ -1,0 +1,13 @@
+html {
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+td {
+    padding: 5px 15px;
+}
+
+a {
+    color: red;
+    font-weight: bold;
+}
